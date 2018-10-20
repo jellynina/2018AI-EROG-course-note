@@ -28,7 +28,7 @@
 
 ### 學術論文 Acadamical Papers
 
-- [ ] Deep Learning for Acoustic Modeling in Parametric Speech Generation
+- [ ] Deep Learning for Acoustic Modeling in Parametric Speech Generation
 - [ ] Design for social media engagement: Insights from elderly care assistance
 
 ### 科普書
