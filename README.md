@@ -7,6 +7,10 @@
 - Trello [AI Project](https://trello.com/b/swFj8lJT/ai-projects): 放散亂的連結資訊卡
 - 目前沒有了
 
+## Learning by Doing 
+
+- Machine Learning Basic [Note](./workshop-notes/1020ML.md)
+
 ## TO DO
 
     - [ ] 各種名詞解釋，用google spreed sheets 去做整理？(很想做個視覺化科普互動頁)
