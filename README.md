@@ -9,15 +9,24 @@
 
 ## TO DO
 
-- [ ] 各種名詞解釋，用google spreed sheets 去做整理？(很想做個視覺化科普互動頁)
-    先用trello好了
-- [ ] 整理AI運用的使用案例
-- [ ] Papers 念完
+    - [ ] 各種名詞解釋，用google spreed sheets 去做整理？(很想做個視覺化科普互動頁)
+        先用trello好了
+    - [ ] 整理AI運用的使用案例
+    - [ ] Papers 念完
+    - [ ] Treehouse 課程自學 
+        - [ ] 目前還沒選好要怎麼有效率的點技能
+        - [x] Introduction to Anaconda : [th](https://teamtreehouse.com/library/introduction-to-anaconda)
+
+    -  Google AIY Kits 修改每個範例都玩一遍
+        - [x] 微笑相機(Demo) 
+
+## 唸書
+
+### 學術論文 Acadamical Papers
+
     - [ ] Deep Learning for Acoustic Modeling in Parametric Speech Generation
     - [ ] Design for social media engagement: Insights from elderly care assistance
--  [ ] Treehouse 課程自學 
-    - [ ] 目前還沒選好要怎麼有效率的點技能
-    - [x] Introduction to Anaconda : [th](https://teamtreehouse.com/library/introduction-to-anaconda)
 
--  Google AIY Kits 修改每個範例都玩一遍
-    - [x] 微笑相機(Demo) 
+### 科普書
+
+    - [ ] 演算法圖鑑 [note](./notes/bool-algorithm.md)
